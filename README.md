@@ -7,7 +7,7 @@ Unauthorized use may violate computer fraud laws in your jurisdiction.<br>
 
 ## Features
 ### 1. WordPress user enumeration:
-Cheks REST API for WordPress usernames.
+Checks REST API for WordPress usernames.
 ### 2. WordPress login:
 Logs in via wp.getUsersBlogs or blogger.getUsersBlogs to confirm successful login.
 ### 3. Brute-force amplification:
